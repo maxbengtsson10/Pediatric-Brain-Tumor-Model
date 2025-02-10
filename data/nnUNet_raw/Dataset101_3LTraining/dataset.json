@@ -1,0 +1,16 @@
+{ 
+ "channel_names": {  
+   "0": "FL", 
+   "1": "T1",
+    "2": "T1CE",
+    "3": "T2"
+ }, 
+ "labels": { 
+   "background": 0,
+   "ET": 1,
+    "CC": 2,
+    "ED": 3
+ }, 
+ "numTraining": 235,
+ "file_ending": ".nii.gz"  
+ }
